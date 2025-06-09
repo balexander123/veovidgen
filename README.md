@@ -1,6 +1,3 @@
-Okay, here's a `README.md` file for the script.
-
-```markdown
 # Google Gemini Veo Video Generator & Drive Uploader
 
 **Version:** 2.0 (Based on speculative Veo API access)
